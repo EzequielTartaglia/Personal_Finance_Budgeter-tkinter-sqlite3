@@ -6,9 +6,7 @@ from datetime import datetime
 from tkinter import ttk 
 from tkinter import *
 import sqlite3
-#import pandas as pn
-#import numpy as np
-#from muttlib.gsheetsconn import GSheetsClient
+
 
 class Item: 
 
