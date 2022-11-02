@@ -145,7 +145,7 @@ class Item:
 
         #Validation
         def login():
-            if user.get() == "e" and password.get() == "e":
+            if user.get() == "ezequieltartaglia" and password.get() == "ezequieltartaglia":
                 
                 #Instructions
                 title_of_program = Label(text="Personal Finance Budgeter",font=50).grid(row=1,column=0,columnspan=2,sticky=W+E)
