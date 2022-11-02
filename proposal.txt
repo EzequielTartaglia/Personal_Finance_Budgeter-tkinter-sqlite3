@@ -1,0 +1,45 @@
+CSE 111 Proposal for a Student Chosen Program
+
+    (This is a proposal. All proposals are written with our best
+    knowledge at the beginning of a project. As we progress from the
+    beginning to the end of a project, we gain more knowledge, and we
+    change some of our proposed ideas. This is part of completing any
+    project and is fine.  However, we still must write a proposal so
+    that our teachers or supervisors know what we intend to do. Please
+    answer each of the following questions to the best of your
+    knowledge.)
+
+1. What is the title of your program? Personal Finance Budgeter
+
+2. What real-world problem will your program address or help to solve? My program will help the people to organized in the personal finances.
+
+
+3. What will you learn from developing this program? I need to learn about tkinter, pandas, numpy, muttlib too.
+
+4. What Python modules will your program use?
+
+    The modules i could use are:
+    
+    -datetime
+    -pytest
+    -sqlite3
+    -tkinter
+
+
+5. Will you separate your Python program into functions that each
+perform a single task?
+
+    I will create some functions to resolve the problem:
+
+    -Get the user data (and save it in a list)
+    -Control the finances from a list (database)
+    -Edit items
+    -Delete items
+    -Show a total (in positive or negative)
+    -Have a login (user:ezequieltartaglia/password:ezequieltartaglia)
+    -Other necesaries to improve the program
+
+6. Will you write test functions to test at least two of your program
+functions?
+
+    I tried to think if i could use test, but i don't know in what part (i tried to use some functions but i didn't realize was necesary in this project)
